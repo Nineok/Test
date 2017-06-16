@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h1>My Test</h1>
+<h1>Test</h1>
 
-<p>My Lorem Ipsum.</p>
+<p> Lorem Ipsum.</p>
 
 </body>
 </html>
